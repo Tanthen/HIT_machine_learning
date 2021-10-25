@@ -11,6 +11,8 @@ def binary_func(x, A=None):
     return result
 
 
+
+
 def dot_line(w, sample_x, sample_y, fig, row, col, number):
     # fig = plt.figure()
     X = np.linspace(-1, 1)
